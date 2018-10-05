@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+もう一つのリポジトリ
+田中けんた
